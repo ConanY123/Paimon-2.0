@@ -1,0 +1,21 @@
+# Characters + weapons + set bonuses, NO artifact stats. Used to read gcsim's own base stats.
+flins char lvl=95/95 cons=0 talent=6,10,10;
+flins add weapon="bloodsoakedruins" refine=1 lvl=90/90;
+flins add set="nightoftheskysunveiling" count=4;
+
+odette char lvl=90/90 cons=2 talent=1,10,6;
+odette add weapon="newbough" refine=4 lvl=90/90;
+odette add set="heartofthefurnace" count=4;
+
+columbina char lvl=90/90 cons=0 talent=9,10,10;
+columbina add weapon="nocturnescurtaincall" refine=1 lvl=90/90;
+columbina add set="aubadeofmorningstarandmoon" count=4;
+
+ineffa char lvl=90/90 cons=1 talent=1,10,10;
+ineffa add weapon="fracturedhalo" refine=1 lvl=90/90;
+ineffa add set="silkenmoonsserenade" count=4;
+
+options iteration=1 duration=10 swap_delay=12;
+target lvl=100 resist=0.1 pos=0,0 radius=2 hp=100000000;
+active flins;
+flins attack;

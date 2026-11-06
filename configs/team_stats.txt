@@ -1,0 +1,17 @@
+# Team with artifact stats derived from in-game screenshots (scripts/build_config.py).
+flins char lvl=95/95 cons=0 talent=6,10,10;
+flins add weapon="bloodsoakedruins" refine=1 lvl=90/90;
+flins add set="nightoftheskysunveiling" count=4;
+odette char lvl=90/90 cons=2 talent=1,10,6;
+odette add weapon="newbough" refine=4 lvl=90/90;
+odette add set="heartofthefurnace" count=4;
+columbina char lvl=90/90 cons=0 talent=9,10,10;
+columbina add weapon="nocturnescurtaincall" refine=1 lvl=90/90;
+columbina add set="aubadeofmorningstarandmoon" count=4;
+ineffa char lvl=90/90 cons=1 talent=1,10,10;
+ineffa add weapon="fracturedhalo" refine=1 lvl=90/90;
+ineffa add set="silkenmoonsserenade" count=4;
+flins add stats hp=5966.8 atk=1672.5 def=20.8 em=19.0 er=0.1040 cr=0.4475 cd=1.4380;
+odette add stats hp=7312.3 atk=1369.5 def=42.0 em=37.0 er=0.0000 cr=0.5170 cd=1.1187;
+columbina add stats hp=22801.4 atk=311.5 def=72.1 em=37.0 er=0.4400 cr=0.4940 cd=1.0490;
+ineffa add stats hp=4779.7 atk=1342.9 def=44.3 em=128.0 er=0.4270 cr=0.5790 cd=0.9715;

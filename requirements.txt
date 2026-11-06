@@ -1,0 +1,11 @@
+# Use a Python 3.12 virtual environment (system Python 3.14 may lack wheels).
+# Versions intentionally unpinned for now; pin once the setup works.
+
+# Learning / training (CPU only on this laptop)
+numpy
+torch
+gymnasium
+
+# Plots, timeline visualization and logging
+matplotlib
+pandas

@@ -1,0 +1,118 @@
+{
+  "_note": "Totals read from the in-game Attributes panel (2026-11-06, main account). white = base, green = bonus shown in green. Raw inputs for the stat derivation; not gcsim config yet. No element DMG bonus on any of the four.",
+  "flins": {
+    "level": "95/95",
+    "constellation": 0,
+    "weapon_refine": 1,
+    "talents_shown": [
+      6,
+      10,
+      10
+    ],
+    "artifact_set_4pc": "Night of the Sky's Unveiling",
+    "hp": {
+      "white": 12934,
+      "green": 5967
+    },
+    "atk": {
+      "white": 1065,
+      "green": 1673
+    },
+    "def": {
+      "white": 837,
+      "green": 21
+    },
+    "em": 99,
+    "crit_rate": 71.8,
+    "crit_dmg": 232.2,
+    "er": 110.4,
+    "cd_reduction": 0.0,
+    "em_party_active": 259,
+    "note": "em=99 is the panel without the party effect (19 from artifacts + 80 from 2pc). With the party active the panel shows 259: Flins' own ascension passive adds min(8% of ATK, 160) EM. gcsim computes that passive itself."
+  },
+  "odette": {
+    "level": "90/90",
+    "constellation": 2,
+    "weapon": "New Bough (as reported, R4; verify gcsim name)",
+    "weapon_refine": 4,
+    "talents_shown": [
+      1,
+      10,
+      6
+    ],
+    "artifact_set_4pc": "Heart of the Furnace (as reported; verify name)",
+    "hp": {
+      "white": 12981,
+      "green": 7312
+    },
+    "atk": {
+      "white": 844,
+      "green": 1522
+    },
+    "def": {
+      "white": 787,
+      "green": 42
+    },
+    "em": 37,
+    "crit_rate": 56.7,
+    "crit_dmg": 255.4,
+    "er": 100.0,
+    "cd_reduction": 5.0
+  },
+  "columbina": {
+    "level": "90/90",
+    "constellation": 0,
+    "weapon_refine": 1,
+    "talents_shown": [
+      9,
+      10,
+      10
+    ],
+    "artifact_set_4pc": "Aubade of Morningstar and Moon",
+    "hp": {
+      "white": 14695,
+      "green": 24271
+    },
+    "atk": {
+      "white": 638,
+      "green": 311
+    },
+    "def": {
+      "white": 515,
+      "green": 72
+    },
+    "em": 117,
+    "crit_rate": 73.6,
+    "crit_dmg": 243.1,
+    "er": 144.0,
+    "cd_reduction": 0.0
+  },
+  "ineffa": {
+    "level": "90/90",
+    "constellation": 1,
+    "weapon_refine": 1,
+    "talents_shown": [
+      1,
+      10,
+      10
+    ],
+    "artifact_set_4pc": "Silken Moon's Serenade",
+    "hp": {
+      "white": 12613,
+      "green": 4780
+    },
+    "atk": {
+      "white": 938,
+      "green": 1343
+    },
+    "def": {
+      "white": 828,
+      "green": 44
+    },
+    "em": 128,
+    "crit_rate": 82.1,
+    "crit_dmg": 213.3,
+    "er": 162.7,
+    "cd_reduction": 0.0
+  }
+}
